@@ -1,0 +1,3 @@
+<resources>
+    <style name="Theme.Lite" parent="@android:style/Theme.DeviceDefault.Wallpaper.NoTitleBar" />
+</resources>
